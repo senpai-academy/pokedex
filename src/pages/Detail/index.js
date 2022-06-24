@@ -21,7 +21,7 @@ const PokemonDetail = () => {
   }, [])
 
   return (
-    <div>
+    <div className='flex items-center justify-around'>
       <Detail
         data={pokemonData}
       />

@@ -8,6 +8,8 @@ import Home from './pages/Home';
 import PokemonDetail from './pages/Detail';
 import Error404 from './pages/Errors/error404';
 
+import './App.css';
+
 function App() {
   return (
     <BrowserRouter>

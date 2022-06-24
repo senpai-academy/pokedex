@@ -1,38 +1,219 @@
-.App {
-  text-align: center;
+.bordergrass {
+  border-color:#74CB48;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.backgroundgrass {
+  background-color: #74CB48;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.idgrass {
+  color: #74CB48
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.borderrock {
+  border-color:#B69E31;
 }
 
-.App-link {
-  color: #61dafb;
+.backgroundrock {
+  background-color: #B69E31;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.idrock {
+  color: #B69E31;
+}
+
+.borderghost {
+  border-color:#70559b;
+}
+
+.backgroundghost {
+  background-color: #70559b;
+}
+
+.idghost {
+  color: #70559b;
+}
+
+.bordersteel {
+  border-color:#B7B9D0;
+}
+
+.backgroundsteel {
+  background-color: #B7B9D0;
+}
+
+.idsteel {
+  color: #B7B9D0;
+}
+
+.borderwater {
+  border-color:#6493EB;
+}
+
+.backgroundwater {
+  background-color: #6493EB;
+}
+
+.idwater {
+  color: #6493EB;
+}
+
+.borderpsychic {
+  border-color:#FB5584;
+}
+
+.backgroundpsychic {
+  background-color: #FB5584;
+}
+
+.idpsychic {
+  color: #FB5584;
+}
+
+.borderice {
+  border-color:#9AD6DF;
+}
+
+.backgroundice {
+  background-color: #9AD6DF;
+}
+
+.idice {
+  color: #9AD6DF;
+}
+
+.borderdark {
+  border-color:#75574C;
+}
+
+.backgrounddark {
+  background-color: #75574C;
+}
+
+.iddark {
+  color: #75574C;
+}
+
+.borderfairy {
+  border-color:#E69EAC;
+}
+
+.backgroundfairy {
+  background-color: #E69EAC;
+}
+
+.idfairy {
+  color: #E69EAC;
+}
+
+.bordernormal {
+  border-color:#AAA67F;
+}
+
+.backgroundnormal {
+  background-color: #AAA67F;
+}
+
+.idnormal {
+  color: #AAA67F;
+}
+
+.borderfighting {
+  border-color:#C12239;
+}
+
+.backgroundfighting {
+  background-color: #C12239;
+}
+
+.idfighting {
+  color: #C12239;
+}
+
+.borderflying {
+  border-color:#A891EC;
+}
+
+.backgroundflying {
+  background-color: #A891EC;
+}
+
+.idflying {
+  color: #A891EC;
+}
+
+.borderpoison {
+  border-color:#A43E9E;
+}
+
+.backgroundpoison {
+  background-color: #A43E9E;
+}
+
+.idpoison {
+  color: #A43E9E;
+}
+
+.borderground {
+  border-color:#DEC16B;
+}
+
+.backgroundground {
+  background-color: #DEC16B;
+}
+
+.idground {
+  color: #DEC16B;
+}
+
+.borderbug {
+  border-color:#A78723;
+}
+
+.backgroundbug {
+  background-color: #A78723;
+}
+
+.idbug {
+  color: #A78723;
+}
+
+.borderfire {
+  border-color:#F57D31;
+}
+
+.backgroundfire {
+  background-color: #F57D31;
+}
+
+.idfire {
+  color: #F57D31;
+}
+
+.borderelectric {
+  border-color:#F9CF30;
+}
+
+.backgroundelectric {
+  background-color: #F9CF30;
+}
+
+.idelectric {
+  color: #F9CF30;
+}
+
+.borderdragon {
+  border-color:#7037FF;
+}
+
+.backgrounddragon {
+  background-color: #7037FF;
+}
+
+.iddragon {
+  color: #7037FF;
+}
+
+.containerStats {
+  border-right: lightgray 2px solid;
 }
